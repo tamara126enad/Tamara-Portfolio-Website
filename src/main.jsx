@@ -25,6 +25,8 @@ const videos = [
   { title:'Toddler finds a photograph', subtitle:'قصة بصرية في غرفة النوم', poster:'toddler-story.jpg', video:'toddler-story.mp4', accent:'purple' },
   { title:'Aqaba whale', subtitle:'مشهد متحرك من العقبة', poster:'aqaba-whale.jpg', video:'aqaba-whale.mp4', accent:'aqua' },
   { title:'Thank you, trainer', subtitle:'رسالة تقدير مصورة', poster:'trainer-thanks.jpg', video:'trainer-thanks.mp4', accent:'lime' },
+  { title:'A visual note from the portfolio', subtitle:'فيديو أصلي من الأرشيف', poster:'vid-portfolio.jpg', video:'vid-portfolio.mp4', accent:'purple' },
+  { title:'Whale of Aqaba — original cut', subtitle:'نسخة أصلية من مشهد الحوت', poster:'aqaba-whale-original.jpg', video:'aqaba-whale-original.mp4', accent:'aqua' },
 ];
 
 const skills = ['تصميم تجارب تفاعلية','المحتوى التعليمي البصري','تحرير الفيديو','الصور المولّدة بالذكاء الاصطناعي','التجارب القصصية','التصميم الرقمي'];
