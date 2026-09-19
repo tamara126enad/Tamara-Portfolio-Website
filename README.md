@@ -1,4 +1,4 @@
-# Tamara-Portfolio
+# Tamara-Portfolio-Website
 
 Portfolio website for Tamara Al-Shobatat, built from the original assets and projects in the Google Drive folder **حقيبة اعمال تمارا**.
 
